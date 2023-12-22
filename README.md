@@ -1,6 +1,6 @@
-### Hello, I'm Kate 👋
+### Hello, I'm Kasia 👋
 
-I'm an architect (of buildings :construction_worker::house_with_garden::smile: ) and a graphic designer by profession. 
+I'm a professional architect :construction_worker::house_with_garden::smile: urban planner, and graphic designer.
 
 In my daily work, I use tools such as:
 
