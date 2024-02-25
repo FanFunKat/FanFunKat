@@ -16,7 +16,8 @@ and more :wink:
 
 🌱 I’m currently learning
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,html,css,js,react,ts,nodejs,figma,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,html,css,js,react,ts,nodejs,firebase,cypress,figma,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,ae)](https://skillicons.dev)
 <!--
 **FanFunKat/FanFunKat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
