@@ -2,7 +2,7 @@
 
 I'm a professional architect :construction_worker::house_with_garden::smile: urban planner, and graphic designer.
 
-Contact:
+📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/kat-rus/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.behance.net/katarzynarussek"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"></a>
