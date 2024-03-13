@@ -37,7 +37,7 @@ I'm a professional architect :construction_worker::house_with_garden::smile: urb
 
 and more :wink:
 
-🌱 I’m currently learning
+🌱 I’m currently learning:
 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"> <img src="https://img.shields.io/badge/remix-000000?style=for-the-badge&logo=remix&logoColor=white">
 <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665"> 
