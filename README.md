@@ -2,6 +2,11 @@
 
 I'm a professional architect :construction_worker::house_with_garden::smile: urban planner, and graphic designer.
 
+Contact:
+
+<a href="https://www.linkedin.com/in/kat-rus/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.behance.net/katarzynarussek"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"></a>
+
 🌳 Languages, Frameworks, Libraryand and other Tools:
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
