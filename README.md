@@ -35,8 +35,6 @@ I'm a professional architect :construction_worker::house_with_garden::smile: urb
 <img src="https://skillicons.dev/icons?i=autocad" alt="autocad" height="47">&nbsp;
 <img src="https://skillicons.dev/icons?i=sketchup" alt="sketchup" height="47">&nbsp; -->
 
-and more :wink:
-
 🌱 I’m currently learning:
 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"> <img src="https://img.shields.io/badge/remix-000000?style=for-the-badge&logo=remix&logoColor=white">
