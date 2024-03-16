@@ -50,7 +50,7 @@ and more :wink:
 
 <!--[![My Skills](https://skillicons.dev/icons?i=ts,firebase,cypress,figma,ae)](https://skillicons.dev)-->
 
-🧐 Where I seek knowledge:
+🧐 Where do I look for knowledge:
 
 <img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white"> <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347"> <img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white">
 
