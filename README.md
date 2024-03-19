@@ -1,13 +1,13 @@
 ### Hello, I'm Kasia 👋
 
-I'm a professional architect :construction_worker::house_with_garden::smile: urban planner, and graphic designer.
+<!--I'm a professional architect :construction_worker::house_with_garden::smile: urban planner, and graphic designer.-->
 
 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/kat-rus/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.behance.net/katarzynarussek"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"></a>
 
-🌳 Languages, Frameworks, Libraryand and other Tools:
+🌳 Languages, Frameworks, Library and other Tools:
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -17,7 +17,6 @@ I'm a professional architect :construction_worker::house_with_garden::smile: urb
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-
 <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white"> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
 <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white">
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
@@ -48,10 +47,10 @@ I'm a professional architect :construction_worker::house_with_garden::smile: urb
 
 <!--[![My Skills](https://skillicons.dev/icons?i=ts,firebase,cypress,figma,ae)](https://skillicons.dev)-->
 
-🧐 Where do I look for knowledge:
+<!--🧐 Where do I look for knowledge:
 
 <img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white"> <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347"> <img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white">
-
+-->
 <!--
 **FanFunKat/FanFunKat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
