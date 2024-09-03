@@ -6,15 +6,14 @@
 
 🐈 I have 2 cats: Szpilka (Pin) and Czarna Furia (Black Fury)
 
-🌻 The languages, frameworks, libraries, and other tools I use most often:
+🌳 The languages, frameworks, libraries, and other tools I use most often:
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"> 
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"> 
 
-🌳 The languages, frameworks, libraries, and other tools I'm experienced with:
+🌱 The languages, frameworks, libraries, and other tools I'm experienced with:
 
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"> <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"> <img src="https://img.shields.io/badge/remix-000000?style=for-the-badge&logo=remix&logoColor=white">  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"> <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"> <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"> <img src="https://img.shields.io/badge/remix-000000?style=for-the-badge&logo=remix&logoColor=white">  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"> <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 
 
 <!--[![My Skills](https://skillicons.dev/icons?i=vscode,git,html,css,js,react,nodejs)](https://skillicons.dev)
@@ -25,9 +24,14 @@
 <img src="https://raw.githubusercontent.com/FanFunKat/Icons/7b11cc6c19004890fbac5d6ac1d21c38ed6391bb/Design/photoshop-invert.svg" alt="PS" height="47">&nbsp;
 <img src="https://raw.githubusercontent.com/FanFunKat/Icons/abf1c63758f0990a4cbdd3da28327e2d0bf834c9/Design/acrobat-reader.svg" alt="Akrobat" height="47">
 <img src="https://skillicons.dev/icons?i=autocad" alt="autocad" height="47">&nbsp;
-<img src="https://skillicons.dev/icons?i=sketchup" alt="sketchup" height="47">&nbsp; -->
+<img src="https://skillicons.dev/icons?i=sketchup" alt="sketchup" height="47">&nbsp; 
 
-🌱 I’m currently learning:
+🌱 I’m currently learning:-->
+
+🎓 I'm actively learning:
+
+- [Full Stack JavaScript](https://teamtreehouse.com/tracks/full-stack-javascript)
+- [Learn React](https://teamtreehouse.com/tracks/learn-react)
 
 <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
