@@ -34,7 +34,7 @@
 - [Learn React](https://teamtreehouse.com/tracks/learn-react)
 
 <img src="https://img.shields.io/badge/Node%20js-323330?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/Express%20js-323330?style=for-the-badge&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/Postman-323330?style=for-the-badge&logo=Postman&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-323330?style=for-the-badge&logo=Postman&logoColor=white"> <img src="https://img.shields.io/badge/Sqlite-323330?style=for-the-badge&logo=sqlite&logoColor=white"> <img src="https://img.shields.io/badge/Sequelize-323330?style=for-the-badge&logo=Sequelize&logoColor=white">
 <!--<img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665"> -->
 
 🍂 In the meantime, I am refreshing my knowledge of:
