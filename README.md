@@ -32,6 +32,7 @@
 
 - [Full Stack JavaScript](https://teamtreehouse.com/tracks/full-stack-javascript)
 - [Learn React](https://teamtreehouse.com/tracks/learn-react)
+- [Typescript: The Complete Developer's Guide](https://www.udemy.com/share/101WXk3@vS0Fj2DOVwgDX6iKs1_wekFqF0UEtP0hM2rVZOySUDhxuxzI3DY-5h_LJqK5IyGbSw==/)
 
 <img src="https://img.shields.io/badge/Node%20js-323330?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/Express%20js-323330?style=for-the-badge&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/Postman-323330?style=for-the-badge&logo=Postman&logoColor=white"> <img src="https://img.shields.io/badge/Sqlite-323330?style=for-the-badge&logo=sqlite&logoColor=white"> <img src="https://img.shields.io/badge/Sequelize-323330?style=for-the-badge&logo=Sequelize&logoColor=white">
