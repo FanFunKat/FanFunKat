@@ -1,4 +1,6 @@
-### Hello, I'm Kasia 👋
+### Hello, I'm Kasia 👋 
+
+[Name pronunciation](https://upload.wikimedia.org/wikipedia/commons/a/a2/Pl-Kasia.ogg): IPA: [ˈkaɕa]
 
 <!--I'm a professional architect :construction_worker::house_with_garden::smile: urban planner, and graphic designer.-->
 
