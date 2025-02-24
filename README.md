@@ -11,11 +11,11 @@
 🌳 The languages, frameworks, libraries, and other tools I use most often:
 
 <img src="https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/GIT-323330?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-323330?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind_CSS-323330?style=for-the-badge&logo=tailwind-css&logoColor=white"> <img src="https://img.shields.io/badge/npm-323330?style=for-the-badge&logo=npm&logoColor=white"> 
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/Vite-323330?style=for-the-badge&logo=vite&logoColor=white">  <img src="https://img.shields.io/badge/GIT-323330?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-323330?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind_CSS-323330?style=for-the-badge&logo=tailwind-css&logoColor=white"> <img src="https://img.shields.io/badge/npm-323330?style=for-the-badge&logo=npm&logoColor=white"> 
 
 🌱 The languages, frameworks, libraries, and other tools I'm experienced with:
 
-<img src="https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/React_Router-323330?style=for-the-badge&logo=react-router&logoColor=white"> <img src="https://img.shields.io/badge/Vite-323330?style=for-the-badge&logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/remix-323330?style=for-the-badge&logo=remix&logoColor=white">  <img src="https://img.shields.io/badge/firebase-323330?style=for-the-badge&logo=firebase&logoColor=white"> <img src="https://img.shields.io/badge/Cloudflare-323330?style=for-the-badge&logo=Cloudflare&logoColor=white"> <img src="https://img.shields.io/badge/Cypress-323330?style=for-the-badge&logo=cypress&logoColor=white"> <img src="https://img.shields.io/badge/Jira-323330?style=for-the-badge&logo=Jira&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=white">  <img src="https://img.shields.io/badge/React_Router-323330?style=for-the-badge&logo=react-router&logoColor=white"> <img src="https://img.shields.io/badge/remix-323330?style=for-the-badge&logo=remix&logoColor=white">  <img src="https://img.shields.io/badge/firebase-323330?style=for-the-badge&logo=firebase&logoColor=white"> <img src="https://img.shields.io/badge/Cloudflare-323330?style=for-the-badge&logo=Cloudflare&logoColor=white"> <img src="https://img.shields.io/badge/Cypress-323330?style=for-the-badge&logo=cypress&logoColor=white"> <img src="https://img.shields.io/badge/Jira-323330?style=for-the-badge&logo=Jira&logoColor=white">
 
 
 <!--[![My Skills](https://skillicons.dev/icons?i=vscode,git,html,css,js,react,nodejs)](https://skillicons.dev)
@@ -32,17 +32,18 @@
 
 🎓 I'm actively learning:
 
-- [Full Stack JavaScript](https://teamtreehouse.com/tracks/full-stack-javascript)
-- [Learn React](https://teamtreehouse.com/tracks/learn-react)
+<!-- - [Full Stack JavaScript](https://teamtreehouse.com/tracks/full-stack-javascript)
+- [Learn React](https://teamtreehouse.com/tracks/learn-react) -->
+- [Modern React with Redux](https://www.udemy.com/course/react-redux/learn/lecture/34696618?start=15#overview)
 - [Typescript: The Complete Developer's Guide](https://www.udemy.com/share/101WXk3@vS0Fj2DOVwgDX6iKs1_wekFqF0UEtP0hM2rVZOySUDhxuxzI3DY-5h_LJqK5IyGbSw==/)
 
-<img src="https://img.shields.io/badge/Node%20js-323330?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/Express%20js-323330?style=for-the-badge&logo=express&logoColor=white">
+<!--<img src="https://img.shields.io/badge/Node%20js-323330?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/Express%20js-323330?style=for-the-badge&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/Postman-323330?style=for-the-badge&logo=Postman&logoColor=white"> <img src="https://img.shields.io/badge/Sqlite-323330?style=for-the-badge&logo=sqlite&logoColor=white"> <img src="https://img.shields.io/badge/Sequelize-323330?style=for-the-badge&logo=Sequelize&logoColor=white">
-<!--<img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665"> -->
+<img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665"> 
 
 🍂 In the meantime, I am refreshing my knowledge of:
 
-<img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/PyCharm-323330.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
+<img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/PyCharm-323330.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"> -->
 
 🎨 Graphic design tools:
 
